@@ -44,6 +44,7 @@ Mark a task as completed by its index:
 
 ```bash
 node todo done <index>
+```
 
 
 
